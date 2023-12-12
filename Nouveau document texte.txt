@@ -1,0 +1,20 @@
+comment all the code 
+manage reset buttons
+manage saving data if test hasnt been copmpleted, when user renters the msn numbers it will
+regenerates the saved data from an earlier session.!
+when changing kilo, it should be changed in the last page also 
+the reset button should delete all the entries
+if the page is already opened, do not open a new page (google sheet)
+lock center indicator in page2 user shouldnt be able to enter value in it 
+manage the wrong input in page1 the pumps pressure input should only take integers or floats
+a chronometer is necessary on the next page,
+create an animation to show how the fuel is being 
+transfered from the central tank to the wing tank (L/R)
+do not forget to add the residual fields  < 5L
+handle errors
+if the users enter "entries" that causes errors i should show a message
+handle zero division error (float division by zero)
+when i press run open the page of the google sheet
+i should try instead of using a google sheet, use an excel sheetx
+optimize the code 
+unit test
